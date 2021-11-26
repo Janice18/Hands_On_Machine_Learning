@@ -25,3 +25,11 @@
 
 ## 4.Training Models
 
++ [01_Training_Linear_Models.ipynb](https://github.com/Tjyy-1223/Hands_On_Machine_Learning/blob/main/4_Training_Linear_Models/01_Training_Linear_Models.ipynb)	代码练习
++ [02_Polynomial_Regression.ipynb](https://github.com/Tjyy-1223/Hands_On_Machine_Learning/blob/main/4_Training_Linear_Models/02_Polynomial_Regression.ipynb) 	代码练习
++ [03_Logistic_Regression.ipynb](https://github.com/Tjyy-1223/Hands_On_Machine_Learning/blob/main/4_Training_Linear_Models/03_Logistic_Regression.ipynb) 	代码练习
++ [04_Exercise_Solution.ipynb](https://github.com/Tjyy-1223/Hands_On_Machine_Learning/blob/main/4_Training_Linear_Models/04_Exercise_Solution.ipynb)	课后习题
++ [04_training_linear_models.ipynb](https://github.com/Tjyy-1223/Hands_On_Machine_Learning/blob/main/handson-ml2-master/04_training_linear_models.ipynb)	官方文档
+
+## 5.SVM
+
