@@ -31,5 +31,15 @@
 + [04_Exercise_Solution.ipynb](https://github.com/Tjyy-1223/Hands_On_Machine_Learning/blob/main/4_Training_Linear_Models/04_Exercise_Solution.ipynb)	课后习题
 + [04_training_linear_models.ipynb](https://github.com/Tjyy-1223/Hands_On_Machine_Learning/blob/main/handson-ml2-master/04_training_linear_models.ipynb)	官方文档
 
-## 5.SVM
+## 5.Support_Vector_Machines
+
++ [01_Large_Margin_Classification.ipynb](https://github.com/Tjyy-1223/Hands_On_Machine_Learning/blob/main/5_Support_Vector_Machines/01_Large_Margin_Classification.ipynb)     代码练习
++ [02_Regression.ipynb](https://github.com/Tjyy-1223/Hands_On_Machine_Learning/blob/main/5_Support_Vector_Machines/02_Regression.ipynb)      代码练习
++ [03_Under_The_Hood.ipynb](https://github.com/Tjyy-1223/Hands_On_Machine_Learning/blob/main/5_Support_Vector_Machines/03_Under_The_Hood.ipynb)        代码练习
++ [04_Exercise_Solutions.ipynb](https://github.com/Tjyy-1223/Hands_On_Machine_Learning/blob/main/5_Support_Vector_Machines/04_Exercise_Solutions.ipynb)      课后习题
++ [05_support_vector_machines.ipynb](https://github.com/Tjyy-1223/Hands_On_Machine_Learning/blob/main/handson-ml2-master/05_support_vector_machines.ipynb)    官方文档
+
+## 6.Decision Trees
+
++ [06_decision_trees.ipynb](https://github.com/Tjyy-1223/Hands_On_Machine_Learning/blob/main/handson-ml2-master/06_decision_trees.ipynb)      官方文档
 
