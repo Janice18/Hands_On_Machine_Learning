@@ -41,5 +41,11 @@
 
 ## 6.Decision Trees
 
++ [01_Classification_Tree.ipynb](https://github.com/Tjyy-1223/Hands_On_Machine_Learning/blob/main/6_Decision_Tree/01_Classification_Tree.ipynb)    代码练习
++ [02_Exercise_Solution.ipynb](https://github.com/Tjyy-1223/Hands_On_Machine_Learning/blob/main/6_Decision_Tree/02_Exercise_Solution.ipynb)      代码练习
+
 + [06_decision_trees.ipynb](https://github.com/Tjyy-1223/Hands_On_Machine_Learning/blob/main/handson-ml2-master/06_decision_trees.ipynb)      官方文档
 
+## 7.Ensemble_Learning_And_Random_Forest
+
++ [07_ensemble_learning_and_random_forests.ipynb](https://github.com/Tjyy-1223/Hands_On_Machine_Learning/blob/main/handson-ml2-master/07_ensemble_learning_and_random_forests.ipynb)    官方文档
